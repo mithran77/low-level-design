@@ -1,0 +1,16 @@
+**/.DS_Store
+__pycache__
+a.out
+.venv
+
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+### Above combination will ignore all files without extension ###
+
