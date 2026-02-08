@@ -11,6 +11,7 @@
 
 ## Implementations
 #### [Python Implementation](python/)
+#### [Golang Implementation](golang/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Direction** enum represents the possible directions of elevator movement (UP or DOWN).
